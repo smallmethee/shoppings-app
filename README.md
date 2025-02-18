@@ -1,6 +1,6 @@
 # 🛍️ Shopping App (Flutter)
 
-### **2️⃣ Install Dependencies**
+### ** Install Dependencies**
 ```sh
 flutter pub get
 ```
